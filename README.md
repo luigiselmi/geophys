@@ -13,3 +13,4 @@ The notebooks in this repository are about computational geophysics and the nume
 * [JAX - High performance array computing](https://docs.jax.dev/en/latest/)
 * [12 steps to Navier-Stokes equations](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 * [Computational fluid dynamics with high-performance Python programming](https://drzgan.github.io/Python_CFD/intro.html)
+* [OpenFOAM](https://openfoam.org/), C++ framework for computational fluid dynamics
