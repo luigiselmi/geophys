@@ -1,7 +1,7 @@
 Computational Geophysics
 ========================
 
-The notebooks in this repository are about computational geophysics and the numerical packages that can be used to solve mathematical problems that are common in many branches of geophysics and related scientific fields such as Fluid Dynamics (GFD), Partial Differential Equations (PDEs) solvers, inversion algorithms. 
+The notebooks in this repository are about computational geophysics and the numerical packages that can be used to solve mathematical problems that are common in many branches of geophysics and related scientific fields such as Geophysical Fluid Dynamics (GFD), Partial Differential Equations (PDEs), wave propagation, solvers, and inversion algorithms. 
 
 ## Notebooks
 * [FyPy Stokes](fipy_stokes.ipynb)
