@@ -15,3 +15,5 @@ The notebooks in this repository are about computational geophysics and the nume
 * [Computational fluid dynamics with high-performance Python programming](https://drzgan.github.io/Python_CFD/intro.html)
 * [OpenFOAM](https://openfoam.org/), C++ framework for computational fluid dynamics
 * [Finite Volume Community Ocean Model (FVCOM)](https://fvcom.smast.umassd.edu/), prognostic, unstructured-grid, coastal and ocean circulation model
+* [PyLag](https://pylag.readthedocs.io/en/latest/index.html), particle tracking model
+  
